@@ -1,0 +1,11 @@
+name = "lab1"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Vitaliy Kulchytskyy"]
+maintainers = ["Vitaliy Kulchytskyy <vitamin6754@gmail.com>"]
+maintainers-logins = ["karlenko"]
+
+executables = ["lab1"]
+[[depends-on]]
+parse_args = "~0.9.0"
